@@ -54,6 +54,7 @@ _____      |__|____  ___  ___    ______ |  |__ ______
 
 '''
     print(logo)
+    print("wirten by YZX100")
 
 # 帮助信息
 def main():
